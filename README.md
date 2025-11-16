@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Netflix UI Clone built with Create React App, Tailwind CSS, Firebase authentication, Redux for user state, and movie data. This repo currently uses a local `movies.json` file for data (no external TMDB API keys required).
 
-## Available Scripts
+## Tech stack
+- React (Create React App)
+- Tailwind CSS (CDN)
+- Firebase Auth (optional/used in code)
+- Redux Toolkit (userSlice)
+- Local data: movies.json (used instead of TMDB in development)
 
-In the project directory, you can run:
+## Current data setup
+- The app uses a local JSON file for movie data (e.g. `src/data/movies.json` or `public/movies.json`). If your file is in a different path update the data importer in the components that fetch movies.
+- There is no `.env.local` in this repo right now. You do not need environment variables to run the app with the local `movies.json`.
 
-### `npm start`
+## Features
+- Sign up / Sign in flows (code present — Firebase project required to fully enable)
+- Protected browse page (redirects to login if unauthenticated)
+- Header with gradient background and navigation
+- User profile icon and sign out
+- Movie lists populated from local `movies.json`
+- Unsubscribes from onAuthStateChanged on unmount
+- Local images stored in `/public/images`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup 
+Prerequisites
+- Node.js (>= 16) and npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone repo
+   ```
+   git clone <repo-url>
+   cd netflixgpt
+   ```
 
-### `npm test`
+2. Install dependencies
+   ```
+   npm install
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Tailwind (CDN)
+This project uses the Tailwind CDN in `public/index.html`:
+```html
+<script src="https://cdn.tailwindcss.com"></script>
+```
+No additional Tailwind setup is needed to run locally. For production, consider installing Tailwind via npm and adding a `tailwind.config.js`.
 
-### `npm run build`
+4. Run (development)
+```
+npm start
+```
+Open http://localhost:3000
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project structure (important files)
+- src/components/Header.js — Header and gradient styles
+- src/utils/firebase.js — Firebase initialization (requires config to be set if used)
+- src/utils/userSlice.js — Redux user slice
+- src/data or public/movies.json — local movie data (used by the app)
+- public/index.html — contains Tailwind CDN script
+- public/images — local images used by the app
 
-### `npm run eject`
+## Debugging tips
+- If Tailwind classes do not appear, confirm the CDN script is in `public/index.html`.
+- Use browser DevTools to inspect classes and computed styles for `.bg-gradient-to-b`.
+- Check Console for CSP or network errors when loading external scripts.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Deploy
+- Build and deploy `build/` to Netlify, Vercel, Firebase Hosting, etc.
+- If using Firebase or TMDB in production, make sure to set environment variables in your host.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

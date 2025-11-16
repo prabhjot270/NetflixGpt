@@ -1,0 +1,1531 @@
+{
+  "now_playing": [
+    {
+      "id": 1,
+      "title": "Dune: Part Two",
+      "poster": "/images/dune_part_two.jpg",
+      "overview": "Paul Atreides unites with the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "genre": "Sci-Fi",
+      "rating": 8.9,
+      "release_year": 2024,
+      "duration": 166
+    },
+    {
+      "id": 2,
+      "title": "Mission Impossible: Dead Reckoning Part One",
+      "poster": "/images/mission_impossible_dead_reckoning.jpg",
+      "overview": "Ethan Hunt and the IMF team race to prevent a weapon threatening humanity.",
+      "genre": "Action",
+      "rating": 7.8,
+      "release_year": 2023,
+      "duration": 163
+    },
+    {
+      "id": 3,
+      "title": "Oppenheimer",
+      "poster": "/images/oppenheimer.jpg",
+      "overview": "The story of J. Robert Oppenheimer, the father of the atomic bomb.",
+      "genre": "Drama",
+      "rating": 8.6,
+      "release_year": 2023,
+      "duration": 180
+    },
+    {
+      "id": 4,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "poster": "/images/spider_man_across_the_spider_verse.jpg",
+      "overview": "Miles Morales catapults across universes to face new threats.",
+      "genre": "Animation",
+      "rating": 8.9,
+      "release_year": 2023,
+      "duration": 140
+    },
+    {
+      "id": 5,
+      "title": "The Batman",
+      "poster": "/images/the_batman.jpg",
+      "overview": "Batman uncovers corruption in Gotham while pursuing the Riddler.",
+      "genre": "Action",
+      "rating": 7.8,
+      "release_year": 2022,
+      "duration": 176
+    },
+    {
+      "id": 6,
+      "title": "John Wick: Chapter 4",
+      "poster": "/images/john_wick_chapter_4.jpg",
+      "overview": "John Wick uncovers a path to defeating the High Table.",
+      "genre": "Action",
+      "rating": 7.7,
+      "release_year": 2023,
+      "duration": 170
+    },
+    {
+      "id": 7,
+      "title": "Top Gun: Maverick",
+      "poster": "/images/top_gun_maverick.jpg",
+      "overview": "Maverick mentors a new generation of fighter pilots.",
+      "genre": "Action",
+      "rating": 8.3,
+      "release_year": 2022,
+      "duration": 131
+    },
+    {
+      "id": 8,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "poster": "/images/guardians_of_the_galaxy_vol_3.jpg",
+      "overview": "The Guardians rally to save Rocket’s life.",
+      "genre": "Sci-Fi",
+      "rating": 8.0,
+      "release_year": 2023,
+      "duration": 150
+    },
+    {
+      "id": 9,
+      "title": "Avatar: The Way of Water",
+      "poster": "/images/avatar_the_way_of_water.jpg",
+      "overview": "The Sully family must survive new threats on Pandora.",
+      "genre": "Sci-Fi",
+      "rating": 7.8,
+      "release_year": 2022,
+      "duration": 192
+    },
+    {
+      "id": 10,
+      "title": "The Creator",
+      "poster": "/images/the_creator.jpg",
+      "overview": "A hardened soldier finds a childlike AI with world-ending powers.",
+      "genre": "Sci-Fi",
+      "rating": 7.1,
+      "release_year": 2023,
+      "duration": 133
+    },
+    {
+      "id": 11,
+      "title": "Speak No Evil",
+      "poster": "/images/speak_no_evil.jpg",
+      "overview": "A family vacation spirals into a nightmare.",
+      "genre": "Thriller",
+      "rating": 7.2,
+      "release_year": 2024,
+      "duration": 105
+    },
+    {
+      "id": 12,
+      "title": "Challengers",
+      "poster": "/images/challengers.jpg",
+      "overview": "A tennis rivalry intensifies on and off the court.",
+      "genre": "Drama",
+      "rating": 7.3,
+      "release_year": 2024,
+      "duration": 132
+    },
+    {
+      "id": 13,
+      "title": "The Killer",
+      "poster": "/images/the_killer.jpg",
+      "overview": "A methodical assassin begins to crack under pressure.",
+      "genre": "Thriller",
+      "rating": 7.0,
+      "release_year": 2023,
+      "duration": 118
+    },
+    {
+      "id": 14,
+      "title": "A Quiet Place: Day One",
+      "poster": "/images/a_quiet_place_day_one.jpg",
+      "overview": "The beginning of the alien invasion told from a new perspective.",
+      "genre": "Horror",
+      "rating": 7.1,
+      "release_year": 2024,
+      "duration": 110
+    },
+    {
+      "id": 15,
+      "title": "Inside Out 2",
+      "poster": "/images/inside_out_2.jpg",
+      "overview": "Riley faces brand-new emotions during teenage years.",
+      "genre": "Animation",
+      "rating": 8.1,
+      "release_year": 2024,
+      "duration": 101
+    }
+  ],
+
+  "popular": [
+    {
+      "id": 16,
+      "title": "Avengers: Endgame",
+      "poster": "/images/avengers_endgame.jpg",
+      "overview": "The Avengers attempt to reverse Thanos’ actions.",
+      "genre": "Action",
+      "rating": 8.4,
+      "release_year": 2019,
+      "duration": 181
+    },
+    {
+      "id": 17,
+      "title": "Spider-Man: No Way Home",
+      "poster": "/images/spider_man_no_way_home.jpg",
+      "overview": "Peter Parker faces multiverse chaos.",
+      "genre": "Action",
+      "rating": 8.2,
+      "release_year": 2021,
+      "duration": 148
+    },
+    {
+      "id": 18,
+      "title": "Joker",
+      "poster": "/images/joker.jpg",
+      "overview": "The story of Arthur Fleck’s descent into madness.",
+      "genre": "Drama",
+      "rating": 8.4,
+      "release_year": 2019,
+      "duration": 122
+    },
+    {
+      "id": 19,
+      "title": "La La Land",
+      "poster": "/images/la_la_land.jpg",
+      "overview": "Two artists pursue dreams and romance in LA.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2016,
+      "duration": 128
+    },
+    {
+      "id": 20,
+      "title": "1917",
+      "poster": "/images/1917.jpg",
+      "overview": "Two soldiers race to deliver a life-saving message.",
+      "genre": "War",
+      "rating": 8.2,
+      "release_year": 2019,
+      "duration": 119
+    },
+    {
+      "id": 21,
+      "title": "Dune",
+      "poster": "/images/dune_2021.jpg",
+      "overview": "Paul Atreides confronts destiny on Arrakis.",
+      "genre": "Sci-Fi",
+      "rating": 8.0,
+      "release_year": 2021,
+      "duration": 155
+    },
+    {
+      "id": 22,
+      "title": "Baby Driver",
+      "poster": "/images/baby_driver.jpg",
+      "overview": "A getaway driver finds himself in danger.",
+      "genre": "Action",
+      "rating": 7.6,
+      "release_year": 2017,
+      "duration": 113
+    },
+    {
+      "id": 23,
+      "title": "Parasite",
+      "poster": "/images/parasite.jpg",
+      "overview": "Two families become entangled in a web of lies.",
+      "genre": "Thriller",
+      "rating": 8.6,
+      "release_year": 2019,
+      "duration": 132
+    },
+    {
+      "id": 24,
+      "title": "Get Out",
+      "poster": "/images/get_out.jpg",
+      "overview": "A chilling social thriller unfolds.",
+      "genre": "Horror",
+      "rating": 7.7,
+      "release_year": 2017,
+      "duration": 104
+    },
+    {
+      "id": 25,
+      "title": "Arrival",
+      "poster": "/images/arrival.jpg",
+      "overview": "A linguist communicates with extraterrestrial visitors.",
+      "genre": "Sci-Fi",
+      "rating": 7.9,
+      "release_year": 2016,
+      "duration": 116
+    },
+    {
+      "id": 26,
+      "title": "Ford v Ferrari",
+      "poster": "/images/ford_v_ferrari.jpg",
+      "overview": "Drivers battle at Le Mans in 1966.",
+      "genre": "Drama",
+      "rating": 8.1,
+      "release_year": 2019,
+      "duration": 152
+    },
+    {
+      "id": 27,
+      "title": "Coco",
+      "poster": "/images/coco.jpg",
+      "overview": "A boy enters the Land of the Dead to learn about his family.",
+      "genre": "Animation",
+      "rating": 8.4,
+      "release_year": 2017,
+      "duration": 105
+    },
+    {
+      "id": 28,
+      "title": "Soul",
+      "poster": "/images/soul.jpg",
+      "overview": "A musician discovers the meaning of life.",
+      "genre": "Animation",
+      "rating": 8.0,
+      "release_year": 2020,
+      "duration": 100
+    },
+    {
+      "id": 29,
+      "title": "The Revenant",
+      "poster": "/images/the_revenant.jpg",
+      "overview": "A frontiersman seeks revenge after being left for dead.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2015,
+      "duration": 156
+    },
+    {
+      "id": 30,
+      "title": "The Martian",
+      "poster": "/images/the_martian.jpg",
+      "overview": "An astronaut survives alone on Mars.",
+      "genre": "Sci-Fi",
+      "rating": 8.0,
+      "release_year": 2015,
+      "duration": 144
+    }
+  ],
+
+  "trending": [
+    {
+      "id": 31,
+      "title": "RRR",
+      "poster": "/images/rrr.jpg",
+      "overview": "Two revolutionaries fight against colonial rule.",
+      "genre": "Action",
+      "rating": 7.9,
+      "release_year": 2022,
+      "duration": 187
+    },
+    {
+      "id": 32,
+      "title": "Pathaan",
+      "poster": "/images/pathaan.jpg",
+      "overview": "An exiled RAW agent returns for a deadly mission.",
+      "genre": "Action",
+      "rating": 7.0,
+      "release_year": 2023,
+      "duration": 146
+    },
+    {
+      "id": 33,
+      "title": "Killers of the Flower Moon",
+      "poster": "/images/killers_of_the_flower_moon.jpg",
+      "overview": "A true story about murder and greed in 1920s Oklahoma.",
+      "genre": "Crime",
+      "rating": 7.8,
+      "release_year": 2023,
+      "duration": 206
+    },
+    {
+      "id": 34,
+      "title": "Barbie",
+      "poster": "/images/barbie.jpg",
+      "overview": "Barbie explores the real world.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2023,
+      "duration": 114
+    },
+    {
+      "id": 35,
+      "title": "Poor Things",
+      "poster": "/images/poor_things.jpg",
+      "overview": "A woman's bizarre journey of self-discovery.",
+      "genre": "Fantasy",
+      "rating": 8.2,
+      "release_year": 2023,
+      "duration": 141
+    },
+    {
+      "id": 36,
+      "title": "The Gentlemen",
+      "poster": "/images/the_gentlemen.jpg",
+      "overview": "A drug empire faces takeover attempts.",
+      "genre": "Crime",
+      "rating": 7.8,
+      "release_year": 2019,
+      "duration": 113
+    },
+    {
+      "id": 37,
+      "title": "Tenet",
+      "poster": "/images/tenet.jpg",
+      "overview": "An agent manipulates time to prevent catastrophe.",
+      "genre": "Sci-Fi",
+      "rating": 7.3,
+      "release_year": 2020,
+      "duration": 150
+    },
+    {
+      "id": 38,
+      "title": "Knives Out",
+      "poster": "/images/knives_out.jpg",
+      "overview": "A detective solves a wealthy patriarch’s murder.",
+      "genre": "Mystery",
+      "rating": 7.9,
+      "release_year": 2019,
+      "duration": 130
+    },
+    {
+      "id": 39,
+      "title": "Logan",
+      "poster": "/images/logan.jpg",
+      "overview": "An aging Wolverine protects a young mutant.",
+      "genre": "Action",
+      "rating": 8.1,
+      "release_year": 2017,
+      "duration": 137
+    },
+    {
+      "id": 40,
+      "title": "It",
+      "poster": "/images/it.jpg",
+      "overview": "A group of kids battle an evil shapeshifting entity.",
+      "genre": "Horror",
+      "rating": 7.3,
+      "release_year": 2017,
+      "duration": 135
+    },
+    {
+      "id": 41,
+      "title": "Split",
+      "poster": "/images/split.jpg",
+      "overview": "A man with 24 personalities kidnaps three girls.",
+      "genre": "Thriller",
+      "rating": 7.3,
+      "release_year": 2016,
+      "duration": 117
+    },
+    {
+      "id": 42,
+      "title": "Dunkirk",
+      "poster": "/images/dunkirk.jpg",
+      "overview": "Thousands of Allied soldiers are evacuated.",
+      "genre": "War",
+      "rating": 7.8,
+      "release_year": 2017,
+      "duration": 106
+    },
+    {
+      "id": 43,
+      "title": "The Lighthouse",
+      "poster": "/images/the_lighthouse.jpg",
+      "overview": "Two lighthouse keepers descend into madness.",
+      "genre": "Horror",
+      "rating": 7.4,
+      "release_year": 2019,
+      "duration": 110
+    },
+    {
+      "id": 44,
+      "title": "Shazam!",
+      "poster": "/images/shazam.jpg",
+      "overview": "A boy becomes a magical superhero.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2019,
+      "duration": 132
+    },
+    {
+      "id": 45,
+      "title": "Everything Everywhere All at Once",
+      "poster": "/images/everything_everywhere_all_at_once.jpg",
+      "overview": "A woman is pulled into multiverse chaos.",
+      "genre": "Sci-Fi",
+      "rating": 8.0,
+      "release_year": 2022,
+      "duration": 139
+    }
+  ],
+
+  "top_rated": [
+    {
+      "id": 46,
+      "title": "Mad Max: Fury Road",
+      "poster": "/images/mad_max_fury_road.jpg",
+      "overview": "Max teams up with Furiosa in a post-apocalyptic wasteland.",
+      "genre": "Action",
+      "rating": 8.1,
+      "release_year": 2015,
+      "duration": 120
+    },
+    {
+      "id": 47,
+      "title": "Whiplash",
+      "poster": "/images/whiplash.jpg",
+      "overview": "A drummer pushes himself to the limit under a ruthless instructor.",
+      "genre": "Drama",
+      "rating": 8.5,
+      "release_year": 2014,
+      "duration": 107
+    },
+    {
+      "id": 48,
+      "title": "Blade Runner 2049",
+      "poster": "/images/blade_runner_2049.jpg",
+      "overview": "A young blade runner unearths a long-buried secret.",
+      "genre": "Sci-Fi",
+      "rating": 8.0,
+      "release_year": 2017,
+      "duration": 164
+    },
+    {
+      "id": 49,
+      "title": "Her",
+      "poster": "/images/her.jpg",
+      "overview": "A lonely writer develops a relationship with an AI OS.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2013,
+      "duration": 126
+    },
+    {
+      "id": 50,
+      "title": "The Hateful Eight",
+      "poster": "/images/the_hateful_eight.jpg",
+      "overview": "Strangers trapped in a cabin reveal dark secrets.",
+      "genre": "Western",
+      "rating": 7.8,
+      "release_year": 2015,
+      "duration": 187
+    },
+    {
+      "id": 51,
+      "title": "Jojo Rabbit",
+      "poster": "/images/jojo_rabbit.jpg",
+      "overview": "A German boy's world view changes during WWII.",
+      "genre": "Comedy",
+      "rating": 7.9,
+      "release_year": 2019,
+      "duration": 108
+    },
+    {
+      "id": 52,
+      "title": "The Shape of Water",
+      "poster": "/images/the_shape_of_water.jpg",
+      "overview": "A mute woman bonds with a mysterious sea creature.",
+      "genre": "Fantasy",
+      "rating": 7.3,
+      "release_year": 2017,
+      "duration": 123
+    },
+    {
+      "id": 53,
+      "title": "Moonlight",
+      "poster": "/images/moonlight.jpg",
+      "overview": "A young man's coming-of-age story told in three acts.",
+      "genre": "Drama",
+      "rating": 7.4,
+      "release_year": 2016,
+      "duration": 111
+    },
+    {
+      "id": 54,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "poster": "/images/spider_man_into_the_spider_verse.jpg",
+      "overview": "Miles Morales becomes Spider-Man in a multiverse adventure.",
+      "genre": "Animation",
+      "rating": 8.4,
+      "release_year": 2018,
+      "duration": 117
+    },
+    {
+      "id": 55,
+      "title": "The Big Short",
+      "poster": "/images/the_big_short.jpg",
+      "overview": "Wall Street outsiders bet against the housing market.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2015,
+      "duration": 130
+    },
+    {
+      "id": 56,
+      "title": "The Irishman",
+      "poster": "/images/the_irishman.jpg",
+      "overview": "A hitman recounts his possible involvement in Hoffa's disappearance.",
+      "genre": "Crime",
+      "rating": 7.8,
+      "release_year": 2019,
+      "duration": 209
+    },
+    {
+      "id": 57,
+      "title": "Room",
+      "poster": "/images/room.jpg",
+      "overview": "A mother and son escape captivity after years in confinement.",
+      "genre": "Drama",
+      "rating": 8.1,
+      "release_year": 2015,
+      "duration": 118
+    },
+    {
+      "id": 58,
+      "title": "Manchester by the Sea",
+      "poster": "/images/manchester_by_the_sea.jpg",
+      "overview": "A grieving uncle returns to his hometown.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2016,
+      "duration": 137
+    },
+    {
+      "id": 59,
+      "title": "Sound of Metal",
+      "poster": "/images/sound_of_metal.jpg",
+      "overview": "A drummer struggles after losing his hearing.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2019,
+      "duration": 121
+    },
+    {
+      "id": 60,
+      "title": "A Star Is Born",
+      "poster": "/images/a_star_is_born.jpg",
+      "overview": "A seasoned musician mentors a young singer.",
+      "genre": "Drama",
+      "rating": 7.6,
+      "release_year": 2018,
+      "duration": 136
+    }
+  ],
+
+  "action": [
+    {
+      "id": 61,
+      "title": "Extraction",
+      "poster": "/images/extraction.jpg",
+      "overview": "A mercenary embarks on a dangerous rescue mission.",
+      "genre": "Action",
+      "rating": 7.0,
+      "release_year": 2020,
+      "duration": 116
+    },
+    {
+      "id": 62,
+      "title": "Baby Driver",
+      "poster": "/images/baby_driver.jpg",
+      "overview": "A getaway driver attempts one last job.",
+      "genre": "Action",
+      "rating": 7.6,
+      "release_year": 2017,
+      "duration": 113
+    },
+    {
+      "id": 63,
+      "title": "Deadpool",
+      "poster": "/images/deadpool.jpg",
+      "overview": "A mercenary becomes an anti-hero after an experiment.",
+      "genre": "Action",
+      "rating": 8.0,
+      "release_year": 2016,
+      "duration": 108
+    },
+    {
+      "id": 64,
+      "title": "Sicario",
+      "poster": "/images/sicario.jpg",
+      "overview": "An FBI agent joins a drug war task force.",
+      "genre": "Action",
+      "rating": 7.6,
+      "release_year": 2015,
+      "duration": 121
+    },
+    {
+      "id": 65,
+      "title": "The Equalizer 2",
+      "poster": "/images/the_equalizer_2.jpg",
+      "overview": "Robert McCall seeks justice for his friend’s murder.",
+      "genre": "Action",
+      "rating": 7.0,
+      "release_year": 2018,
+      "duration": 120
+    },
+    {
+      "id": 66,
+      "title": "Skyscraper",
+      "poster": "/images/skyscraper.jpg",
+      "overview": "A veteran fights to save his family from a burning skyscraper.",
+      "genre": "Action",
+      "rating": 7.1,
+      "release_year": 2018,
+      "duration": 112
+    },
+    {
+      "id": 67,
+      "title": "The Gray Man",
+      "poster": "/images/the_gray_man.jpg",
+      "overview": "A CIA agent becomes the target of a manhunt.",
+      "genre": "Action",
+      "rating": 7.2,
+      "release_year": 2022,
+      "duration": 129
+    },
+    {
+      "id": 68,
+      "title": "Wrath of Man",
+      "poster": "/images/wrath_of_man.jpg",
+      "overview": "A cold new security guard declares war on robbers.",
+      "genre": "Action",
+      "rating": 7.1,
+      "release_year": 2021,
+      "duration": 118
+    },
+    {
+      "id": 69,
+      "title": "Upgrade",
+      "poster": "/images/upgrade.jpg",
+      "overview": "A man becomes a superhuman through an AI implant.",
+      "genre": "Action",
+      "rating": 7.5,
+      "release_year": 2018,
+      "duration": 105
+    },
+    {
+      "id": 70,
+      "title": "Nobody",
+      "poster": "/images/nobody.jpg",
+      "overview": "A mild-mannered family man returns to a dangerous past.",
+      "genre": "Action",
+      "rating": 7.4,
+      "release_year": 2021,
+      "duration": 92
+    },
+    {
+      "id": 71,
+      "title": "Fury",
+      "poster": "/images/fury.jpg",
+      "overview": "Tank crewmen fight behind enemy lines in WWII.",
+      "genre": "Action",
+      "rating": 7.5,
+      "release_year": 2014,
+      "duration": 134
+    },
+    {
+      "id": 72,
+      "title": "The Revenant 2",
+      "poster": "/images/the_revenant_2.jpg",
+      "overview": "A man fights for survival and revenge.",
+      "genre": "Action",
+      "rating": 8.0,
+      "release_year": 2015,
+      "duration": 156
+    },
+    {
+      "id": 73,
+      "title": "Atomic Blonde",
+      "poster": "/images/atomic_blonde.jpg",
+      "overview": "An MI6 agent investigates a murder during the Cold War.",
+      "genre": "Action",
+      "rating": 7.1,
+      "release_year": 2017,
+      "duration": 115
+    },
+    {
+      "id": 74,
+      "title": "The Northman",
+      "poster": "/images/the_northman.jpg",
+      "overview": "A Viking prince seeks revenge for his father’s murder.",
+      "genre": "Action",
+      "rating": 7.0,
+      "release_year": 2022,
+      "duration": 137
+    },
+    {
+      "id": 75,
+      "title": "The Tomorrow War",
+      "poster": "/images/the_tomorrow_war.jpg",
+      "overview": "Humans fight an alien invasion across time.",
+      "genre": "Action",
+      "rating": 7.0,
+      "release_year": 2021,
+      "duration": 138
+    }
+  ],
+
+  "sci_fi": [
+    {
+      "id": 76,
+      "title": "Ad Astra",
+      "poster": "/images/ad_astra.jpg",
+      "overview": "An astronaut travels to the edge of the solar system.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2019,
+      "duration": 123
+    },
+    {
+      "id": 77,
+      "title": "Annihilation",
+      "poster": "/images/annihilation.jpg",
+      "overview": "A biologist investigates a mysterious zone.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2018,
+      "duration": 115
+    },
+    {
+      "id": 78,
+      "title": "Ex Machina",
+      "poster": "/images/ex_machina.jpg",
+      "overview": "A programmer evaluates a highly advanced AI.",
+      "genre": "Sci-Fi",
+      "rating": 7.7,
+      "release_year": 2015,
+      "duration": 108
+    },
+    {
+      "id": 79,
+      "title": "Lucy",
+      "poster": "/images/lucy.jpg",
+      "overview": "A woman gains extraordinary mental powers.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2014,
+      "duration": 89
+    },
+    {
+      "id": 80,
+      "title": "Arrival",
+      "poster": "/images/arrival_2.jpg",
+      "overview": "A linguist communicates with alien visitors.",
+      "genre": "Sci-Fi",
+      "rating": 7.9,
+      "release_year": 2016,
+      "duration": 116
+    },
+    {
+      "id": 81,
+      "title": "The Wandering Earth",
+      "poster": "/images/the_wandering_earth.jpg",
+      "overview": "Earth is moved across the galaxy to escape the dying sun.",
+      "genre": "Sci-Fi",
+      "rating": 7.1,
+      "release_year": 2019,
+      "duration": 125
+    },
+    {
+      "id": 82,
+      "title": "The Creator",
+      "poster": "/images/the_creator.jpg",
+      "overview": "A soldier must destroy an AI superweapon.",
+      "genre": "Sci-Fi",
+      "rating": 7.2,
+      "release_year": 2023,
+      "duration": 133
+    },
+    {
+      "id": 83,
+      "title": "The Midnight Sky",
+      "poster": "/images/the_midnight_sky.jpg",
+      "overview": "A scientist races to warn astronauts returning to Earth.",
+      "genre": "Sci-Fi",
+      "rating": 7.1,
+      "release_year": 2020,
+      "duration": 118
+    },
+    {
+      "id": 84,
+      "title": "I Am Mother",
+      "poster": "/images/i_am_mother.jpg",
+      "overview": "A girl raised by a robot questions her origins.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2019,
+      "duration": 113
+    },
+    {
+      "id": 85,
+      "title": "Infinite",
+      "poster": "/images/infinite.jpg",
+      "overview": "A man discovers he reincarnates across lifetimes.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2021,
+      "duration": 106
+    },
+    {
+      "id": 86,
+      "title": "Ghost in the Shell",
+      "poster": "/images/ghost_in_the_shell.jpg",
+      "overview": "A cyber-enhanced soldier uncovers her true identity.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2017,
+      "duration": 107
+    },
+    {
+      "id": 87,
+      "title": "Ready Player One",
+      "poster": "/images/ready_player_one.jpg",
+      "overview": "Players race through a massive VR world for control.",
+      "genre": "Sci-Fi",
+      "rating": 7.5,
+      "release_year": 2018,
+      "duration": 140
+    },
+    {
+      "id": 88,
+      "title": "Moonfall",
+      "poster": "/images/moonfall.jpg",
+      "overview": "Humanity fights to stop the moon from crashing to Earth.",
+      "genre": "Sci-Fi",
+      "rating": 7.0,
+      "release_year": 2022,
+      "duration": 130
+    },
+    {
+      "id": 89,
+      "title": "Stowaway",
+      "poster": "/images/stowaway.jpg",
+      "overview": "A three-person mission to Mars is threatened by a stowaway.",
+      "genre": "Sci-Fi",
+      "rating": 7.2,
+      "release_year": 2021,
+      "duration": 116
+    },
+    {
+      "id": 90,
+      "title": "The Adam Project",
+      "poster": "/images/the_adam_project.jpg",
+      "overview": "A time-traveling pilot teams up with his younger self.",
+      "genre": "Sci-Fi",
+      "rating": 7.1,
+      "release_year": 2022,
+      "duration": 106
+    }
+  ],
+
+  "drama": [
+    {
+      "id": 91,
+      "title": "Marriage Story",
+      "poster": "/images/marriage_story.jpg",
+      "overview": "A couple navigates a difficult divorce.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2019,
+      "duration": 137
+    },
+    {
+      "id": 92,
+      "title": "The Whale",
+      "poster": "/images/the_whale.jpg",
+      "overview": "A reclusive teacher attempts to reconnect with his daughter.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2022,
+      "duration": 117
+    },
+    {
+      "id": 93,
+      "title": "The Father",
+      "poster": "/images/the_father.jpg",
+      "overview": "A man struggles with dementia as his reality shifts.",
+      "genre": "Drama",
+      "rating": 8.3,
+      "release_year": 2020,
+      "duration": 97
+    },
+    {
+      "id": 94,
+      "title": "Minari",
+      "poster": "/images/minari.jpg",
+      "overview": "A Korean-American family starts a new life in Arkansas.",
+      "genre": "Drama",
+      "rating": 7.6,
+      "release_year": 2020,
+      "duration": 115
+    },
+    {
+      "id": 95,
+      "title": "Hacksaw Ridge",
+      "poster": "/images/hacksaw_ridge.jpg",
+      "overview": "A soldier serves as a medic without firing a single shot.",
+      "genre": "Drama",
+      "rating": 8.1,
+      "release_year": 2016,
+      "duration": 139
+    },
+    {
+      "id": 96,
+      "title": "The Trial of the Chicago 7",
+      "poster": "/images/the_trial_of_the_chicago_7.jpg",
+      "overview": "Seven defendants are charged with conspiracy.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2020,
+      "duration": 129
+    },
+    {
+      "id": 97,
+      "title": "Fences",
+      "poster": "/images/fences.jpg",
+      "overview": "A father wrestles with race, family, and lost opportunities.",
+      "genre": "Drama",
+      "rating": 7.9,
+      "release_year": 2016,
+      "duration": 139
+    },
+    {
+      "id": 98,
+      "title": "Lion",
+      "poster": "/images/lion.jpg",
+      "overview": "A lost child searches for his biological family.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2016,
+      "duration": 118
+    },
+    {
+      "id": 99,
+      "title": "Brooklyn",
+      "poster": "/images/brooklyn.jpg",
+      "overview": "A young Irish woman starts a new life in America.",
+      "genre": "Drama",
+      "rating": 7.5,
+      "release_year": 2015,
+      "duration": 112
+    },
+    {
+      "id": 100,
+      "title": "Hidden Figures",
+      "poster": "/images/hidden_figures.jpg",
+      "overview": "Three Black women help NASA launch astronauts into space.",
+      "genre": "Drama",
+      "rating": 7.8,
+      "release_year": 2016,
+      "duration": 127
+    },
+    {
+      "id": 101,
+      "title": "Moonlight",
+      "poster": "/images/moonlight.jpg",
+      "overview": "A boy grows into a man through trials and self-discovery.",
+      "genre": "Drama",
+      "rating": 7.4,
+      "release_year": 2016,
+      "duration": 111
+    },
+    {
+      "id": 102,
+      "title": "The Florida Project",
+      "poster": "/images/the_florida_project.jpg",
+      "overview": "A girl grows up in a motel near Disneyland.",
+      "genre": "Drama",
+      "rating": 7.6,
+      "release_year": 2017,
+      "duration": 111
+    },
+    {
+      "id": 103,
+      "title": "Promising Young Woman",
+      "poster": "/images/promising_young_woman.jpg",
+      "overview": "A woman seeks vengeance for her best friend.",
+      "genre": "Drama",
+      "rating": 7.4,
+      "release_year": 2020,
+      "duration": 113
+    },
+    {
+      "id": 104,
+      "title": "The Holdovers",
+      "poster": "/images/the_holdovers.jpg",
+      "overview": "A teacher bonds with a difficult student over the holidays.",
+      "genre": "Drama",
+      "rating": 8.0,
+      "release_year": 2023,
+      "duration": 133
+    },
+    {
+      "id": 105,
+      "title": "Green Book",
+      "poster": "/images/green_book.jpg",
+      "overview": "A pianist and his driver bond during a concert tour.",
+      "genre": "Drama",
+      "rating": 8.2,
+      "release_year": 2018,
+      "duration": 130
+    }
+  ],
+
+  "horror": [
+    {
+      "id": 106,
+      "title": "Hereditary",
+      "poster": "/images/hereditary.jpg",
+      "overview": "A family unravels dark secrets after their matriarch’s death.",
+      "genre": "Horror",
+      "rating": 7.3,
+      "release_year": 2018,
+      "duration": 127
+    },
+    {
+      "id": 107,
+      "title": "The Witch",
+      "poster": "/images/the_witch.jpg",
+      "overview": "A Puritan family confronts evil forces in the woods.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2015,
+      "duration": 92
+    },
+    {
+      "id": 108,
+      "title": "The Babadook",
+      "poster": "/images/the_babadook.jpg",
+      "overview": "A mother and son are haunted by a sinister presence.",
+      "genre": "Horror",
+      "rating": 7.5,
+      "release_year": 2014,
+      "duration": 94
+    },
+    {
+      "id": 109,
+      "title": "The Conjuring 2",
+      "poster": "/images/the_conjuring_2.jpg",
+      "overview": "Ed and Lorraine Warren investigate paranormal cases.",
+      "genre": "Horror",
+      "rating": 7.3,
+      "release_year": 2016,
+      "duration": 134
+    },
+    {
+      "id": 110,
+      "title": "A Quiet Place",
+      "poster": "/images/a_quiet_place.jpg",
+      "overview": "A family survives in a world overrun by sound-hunting creatures.",
+      "genre": "Horror",
+      "rating": 7.5,
+      "release_year": 2018,
+      "duration": 100
+    },
+    {
+      "id": 111,
+      "title": "Midsommar",
+      "poster": "/images/midsommar.jpg",
+      "overview": "A summer festival turns into a nightmare for travelers.",
+      "genre": "Horror",
+      "rating": 7.1,
+      "release_year": 2019,
+      "duration": 148
+    },
+    {
+      "id": 112,
+      "title": "The Invisible Man",
+      "poster": "/images/the_invisible_man.jpg",
+      "overview": "A woman believes she is hunted by her abusive ex.",
+      "genre": "Horror",
+      "rating": 7.1,
+      "release_year": 2020,
+      "duration": 124
+    },
+    {
+      "id": 113,
+      "title": "Smile",
+      "poster": "/images/smile.jpg",
+      "overview": "A therapist is haunted by eerie encounters.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2022,
+      "duration": 115
+    },
+    {
+      "id": 114,
+      "title": "Barbarian",
+      "poster": "/images/barbarian.jpg",
+      "overview": "A rental home hides terrifying secrets.",
+      "genre": "Horror",
+      "rating": 7.1,
+      "release_year": 2022,
+      "duration": 102
+    },
+    {
+      "id": 115,
+      "title": "The Black Phone",
+      "poster": "/images/the_black_phone.jpg",
+      "overview": "A kidnapped boy communicates through a mysterious phone.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2021,
+      "duration": 102
+    },
+    {
+      "id": 116,
+      "title": "Talk to Me",
+      "poster": "/images/talk_to_me.jpg",
+      "overview": "Teens experiment with a haunted hand.",
+      "genre": "Horror",
+      "rating": 7.1,
+      "release_year": 2023,
+      "duration": 94
+    },
+    {
+      "id": 117,
+      "title": "Lights Out",
+      "poster": "/images/lights_out.jpg",
+      "overview": "A supernatural entity lurks in the darkness.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2016,
+      "duration": 81
+    },
+    {
+      "id": 118,
+      "title": "It Follows",
+      "poster": "/images/it_follows.jpg",
+      "overview": "A supernatural curse stalks victims relentlessly.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2015,
+      "duration": 100
+    },
+    {
+      "id": 119,
+      "title": "The Visit",
+      "poster": "/images/the_visit.jpg",
+      "overview": "A family’s visit to grandparents turns chilling.",
+      "genre": "Horror",
+      "rating": 7.0,
+      "release_year": 2015,
+      "duration": 94
+    },
+    {
+      "id": 120,
+      "title": "The Menu",
+      "poster": "/images/the_menu.jpg",
+      "overview": "Guests at an exclusive restaurant face sinister surprises.",
+      "genre": "Horror",
+      "rating": 7.2,
+      "release_year": 2022,
+      "duration": 107
+    }
+  ],
+
+  "thriller": [
+    {
+      "id": 121,
+      "title": "Nightcrawler",
+      "poster": "/images/nightcrawler.jpg",
+      "overview": "A man enters the world of crime journalism.",
+      "genre": "Thriller",
+      "rating": 7.8,
+      "release_year": 2014,
+      "duration": 117
+    },
+    {
+      "id": 122,
+      "title": "Gone Girl",
+      "poster": "/images/gone_girl.jpg",
+      "overview": "A man becomes a suspect after his wife disappears.",
+      "genre": "Thriller",
+      "rating": 8.1,
+      "release_year": 2014,
+      "duration": 149
+    },
+    {
+      "id": 123,
+      "title": "Prisoners",
+      "poster": "/images/prisoners.jpg",
+      "overview": "A father searches for his kidnapped daughter.",
+      "genre": "Thriller",
+      "rating": 8.1,
+      "release_year": 2013,
+      "duration": 153
+    },
+    {
+      "id": 124,
+      "title": "Wind River",
+      "poster": "/images/wind_river.jpg",
+      "overview": "An FBI agent investigates a teen’s death on a reservation.",
+      "genre": "Thriller",
+      "rating": 7.7,
+      "release_year": 2017,
+      "duration": 107
+    },
+    {
+      "id": 125,
+      "title": "Nocturnal Animals",
+      "poster": "/images/nocturnal_animals.jpg",
+      "overview": "A woman reads a violent manuscript dedicated to her.",
+      "genre": "Thriller",
+      "rating": 7.5,
+      "release_year": 2016,
+      "duration": 117
+    },
+    {
+      "id": 126,
+      "title": "The Guilty",
+      "poster": "/images/the_guilty.jpg",
+      "overview": "A 911 operator uncovers dark secrets in a kidnapping.",
+      "genre": "Thriller",
+      "rating": 7.0,
+      "release_year": 2021,
+      "duration": 90
+    },
+    {
+      "id": 127,
+      "title": "Enemy",
+      "poster": "/images/enemy.jpg",
+      "overview": "A man encounters his exact physical double.",
+      "genre": "Thriller",
+      "rating": 7.1,
+      "release_year": 2013,
+      "duration": 91
+    },
+    {
+      "id": 128,
+      "title": "Sicario: Day of the Soldado",
+      "poster": "/images/sicario_day_of_the_soldado.jpg",
+      "overview": "Drug cartels spark conflict across the border.",
+      "genre": "Thriller",
+      "rating": 7.1,
+      "release_year": 2018,
+      "duration": 122
+    },
+    {
+      "id": 129,
+      "title": "The Girl on the Train",
+      "poster": "/images/the_girl_on_the_train.jpg",
+      "overview": "A troubled woman becomes entangled in a missing-persons case.",
+      "genre": "Thriller",
+      "rating": 7.0,
+      "release_year": 2016,
+      "duration": 112
+    },
+    {
+      "id": 130,
+      "title": "A Cure for Wellness",
+      "poster": "/images/a_cure_for_wellness.jpg",
+      "overview": "A man searches for his boss at a sinister wellness center.",
+      "genre": "Thriller",
+      "rating": 7.1,
+      "release_year": 2016,
+      "duration": 146
+    },
+    {
+      "id": 131,
+      "title": "Mother!",
+      "poster": "/images/mother.jpg",
+      "overview": "A couple’s relationship is tested by uninvited guests.",
+      "genre": "Thriller",
+      "rating": 7.1,
+      "release_year": 2017,
+      "duration": 121
+    },
+    {
+      "id": 132,
+      "title": "The Little Things",
+      "poster": "/images/the_little_things.jpg",
+      "overview": "Two detectives investigate a serial killer.",
+      "genre": "Thriller",
+      "rating": 7.0,
+      "release_year": 2021,
+      "duration": 128
+    },
+    {
+      "id": 133,
+      "title": "Beast",
+      "poster": "/images/beast.jpg",
+      "overview": "A father and daughters are hunted by a rogue lion.",
+      "genre": "Thriller",
+      "rating": 7.1,
+      "release_year": 2022,
+      "duration": 93
+    },
+    {
+      "id": 134,
+      "title": "Run",
+      "poster": "/images/run.jpg",
+      "overview": "A teenager grows suspicious of her mother's intentions.",
+      "genre": "Thriller",
+      "rating": 7.3,
+      "release_year": 2020,
+      "duration": 89
+    },
+    {
+      "id": 135,
+      "title": "The Accountant",
+      "poster": "/images/the_accountant.jpg",
+      "overview": "A math genius with a dangerous past works as a forensic accountant.",
+      "genre": "Thriller",
+      "rating": 7.3,
+      "release_year": 2016,
+      "duration": 128
+    }
+  ],
+
+  "comedy": [
+    {
+      "id": 136,
+      "title": "The Nice Guys",
+      "poster": "/images/the_nice_guys.jpg",
+      "overview": "Two detectives investigate a missing girl.",
+      "genre": "Comedy",
+      "rating": 7.4,
+      "release_year": 2016,
+      "duration": 116
+    },
+    {
+      "id": 137,
+      "title": "Jumanji: Welcome to the Jungle",
+      "poster": "/images/jumanji_welcome_to_the_jungle.jpg",
+      "overview": "Teens are sucked into a magical video game.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2017,
+      "duration": 119
+    },
+    {
+      "id": 138,
+      "title": "Deadpool 2",
+      "poster": "/images/deadpool_2.jpg",
+      "overview": "Deadpool protects a young mutant from a time-traveling soldier.",
+      "genre": "Comedy",
+      "rating": 7.7,
+      "release_year": 2018,
+      "duration": 119
+    },
+    {
+      "id": 139,
+      "title": "Game Night",
+      "poster": "/images/game_night.jpg",
+      "overview": "A harmless game night spirals into real danger.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2018,
+      "duration": 100
+    },
+    {
+      "id": 140,
+      "title": "Jojo Rabbit",
+      "poster": "/images/jojo_rabbit.jpg",
+      "overview": "A young boy in Nazi Germany discovers shocking truths.",
+      "genre": "Comedy",
+      "rating": 7.9,
+      "release_year": 2019,
+      "duration": 108
+    },
+    {
+      "id": 141,
+      "title": "The Big Sick",
+      "poster": "/images/the_big_sick.jpg",
+      "overview": "A couple deals with cultural differences and a medical crisis.",
+      "genre": "Comedy",
+      "rating": 7.6,
+      "release_year": 2017,
+      "duration": 120
+    },
+    {
+      "id": 142,
+      "title": "Free Guy",
+      "poster": "/images/free_guy.jpg",
+      "overview": "A bank teller discovers he is a video game NPC.",
+      "genre": "Comedy",
+      "rating": 7.1,
+      "release_year": 2021,
+      "duration": 115
+    },
+    {
+      "id": 143,
+      "title": "Palm Springs",
+      "poster": "/images/palm_springs.jpg",
+      "overview": "Two wedding guests relive the same day over and over.",
+      "genre": "Comedy",
+      "rating": 7.4,
+      "release_year": 2020,
+      "duration": 90
+    },
+    {
+      "id": 144,
+      "title": "Crazy Rich Asians",
+      "poster": "/images/crazy_rich_asians.jpg",
+      "overview": "A woman discovers her boyfriend belongs to a wealthy family.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2018,
+      "duration": 120
+    },
+    {
+      "id": 145,
+      "title": "The Favourite",
+      "poster": "/images/the_favourite.jpg",
+      "overview": "Two cousins vie for a queen’s affection.",
+      "genre": "Comedy",
+      "rating": 7.6,
+      "release_year": 2018,
+      "duration": 119
+    },
+    {
+      "id": 146,
+      "title": "The French Dispatch",
+      "poster": "/images/the_french_dispatch.jpg",
+      "overview": "Journalists write quirky stories for a magazine.",
+      "genre": "Comedy",
+      "rating": 7.2,
+      "release_year": 2021,
+      "duration": 108
+    },
+    {
+      "id": 147,
+      "title": "Don't Look Up",
+      "poster": "/images/dont_look_up.jpg",
+      "overview": "Scientists warn humanity about a planet-destroying comet.",
+      "genre": "Comedy",
+      "rating": 7.2,
+      "release_year": 2021,
+      "duration": 138
+    },
+    {
+      "id": 148,
+      "title": "Knives Out",
+      "poster": "/images/knives_out_2.jpg",
+      "overview": "Detective Benoit Blanc solves a murder.",
+      "genre": "Comedy",
+      "rating": 7.9,
+      "release_year": 2019,
+      "duration": 130
+    },
+    {
+      "id": 149,
+      "title": "Neighbors",
+      "poster": "/images/neighbors.jpg",
+      "overview": "A couple battles a fraternity that moves in next door.",
+      "genre": "Comedy",
+      "rating": 7.0,
+      "release_year": 2014,
+      "duration": 97
+    },
+    {
+      "id": 150,
+      "title": "The Intern",
+      "poster": "/images/the_intern.jpg",
+      "overview": "A 70-year-old joins a fashion startup as an intern.",
+      "genre": "Comedy",
+      "rating": 7.1,
+      "release_year": 2015,
+      "duration": 121
+    }
+  ]
+}
