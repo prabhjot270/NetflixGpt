@@ -78,18 +78,21 @@ const Login = () => {
      });
 
        }
-    }
+  }
+
     const toggleSignInForm=()=>{
         setIsSignInForm(!isSignInForm);
     }
+
   return (
-    <div>
+    <div className='relative min-h-screen w-full'>
+       <img
+    src="/images/background.jpg"
+    alt="background"
+    className="absolute inset-0 w-full h-full object-cover -z-10"
+  />
     <Header/>
-      <div className='absolute w-full h-full z-0'>
-        <img src='/images/background.jpg'
-         alt='background'
-         />
-         </div>
+    
         <form onSubmit={(e)=>e.preventDefault()} className='w-3/12 absolute p-12 bg-black my-36 mx-auto right-0 left-0 text-white bg-opacity-80'>
         <h1 className='font-bold text-3xl py-4 cursor-pointer'> {isSignInForm ? "Sign In" : "Sign Up" }</h1>
         {!isSignInForm && (<input  ref={name} type="text" placeholder="Full Name" className="p-4 my-4 w-full bg-gray-700"/>)}
