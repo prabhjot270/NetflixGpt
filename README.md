@@ -39,7 +39,7 @@ movies.json a local movie database with categorized movie data.
 
 - `/public` :holds Static assets like movie poster images and demo screenshots are stored .
 
-- `root` :contains .env file to store secrets ,package management files and firebase config files.
+- `root` :contains `.env` file to store secrets ,package management files and firebase config files.
 
 ## Getting Started 
 Prerequisites
@@ -72,7 +72,8 @@ Open http://localhost:3000
 
 ## Deployment on Firebase
 
-- The application is deployed using Firebase Hosting. Check now
+- The application is deployed using Firebase Hosting. Check now https://netflixnow-40e5d.web.app/
+
 
 Key deployment steps:
 
